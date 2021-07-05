@@ -1,4 +1,33 @@
 body{
     font-family: 'Ubuntu', sans-serif;
-    margin: auto;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+.name-color{
+    color: orangered;
+}
+
+section{
+    display: flex;
+   
+}
+.half-width{
+    width: 100%;
+    padding: 10% ;
+}
+.half-width img{
+   max-width: 80%;
+   padding: 0%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 80px;
+    font-weight: 700;
+
 }
