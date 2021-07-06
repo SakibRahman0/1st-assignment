@@ -44,3 +44,30 @@ section{
     width:  100%;
 
 }
+.my-career{
+    text-align: center;
+    margin: auto;  
+}
+#recipie-title{
+    display: flex; 
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#recipie-title img{
+    height: 50%;
+    width: 30%;
+    margin-left:5% ;
+    margin-right: 5%;
+}
+.border-shadow{
+    border: gray;
+border-radius:10px;
+margin: 5%;
+box-shadow: 10px 10px 10px rgb(54, 54, 54);
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 0px;
+}
